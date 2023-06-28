@@ -40,3 +40,8 @@ Bu Python betiği, belirtilen dosya yollarındaki dosyaları bir USB belleğe ko
 
 7. Script, belirtilen dosya yollarındaki dosyaları USB belleğe kopyalar ve işlem sonunda başarı veya hata mesajlarını görüntüler.
 
+## Lisans
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Bu projeyi [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisansladık. Lisansın tam açıklamasını burada bulabilirsiniz.
