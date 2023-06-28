@@ -3,7 +3,7 @@
 Bu Python betiği, belirtilen dosya yollarındaki dosyaları bir USB belleğe kopyalar.
 
 
-#Gereksimler
+## Gereksimler
 - pip install os
 - pip install shutil
 
